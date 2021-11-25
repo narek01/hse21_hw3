@@ -38,11 +38,10 @@ SRR3414635 | control	| 20 956 475	| 20 395 865 (97.32 %) |	18 428 317 (87.94 %) 
 SRR3414636 | control |	20 307 147 |	19 757 059 (97.29 %) |	17 825 380 (87.78 %) |	15 757 580 (77.60 %)
 SRR3414637 | control	| 20 385 570	| 19 847 291 (97.36 %) |	17 844 858 (87.54 %) |	15 736 978 (77.20 %)
 
-## MA-plot
-![](images/MA-plot.png)
-
-## Heatmap
-![](images/heatmap.png)
+## Plots
+MA-plot | Heatmap
+-|-
+![](images/MA-plot.png) | ![](images/heatmap.png)
 
 
 ## Дифференциально экспрессированные гены (примеры)
@@ -55,22 +54,8 @@ ENSMUSG00000037820.15 | [Tgm2](http://www.ensembl.org/Mus_musculus/Gene/Summary?
 ENSMUSG00000026413.12 | [Pkp1](http://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026413;r=1:135799133-135846945) |	1670.22 | 5.50794 |	0.162349 |	33.9265 |	2.70764e-252 | 3.40283e-249
 ENSMUSG00000074796.10 | [Slc4a11](http://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000074796;r=2:130526033-130539439) |	890.962 | 4.27569 |	0.135831 |	31.478 |	1.73566e-217 | 1.74504e-214
 
-Gene | Graph
+**<p style="text-align: center;">Itgb4</p>** | **<p style="text-align: center;">Tgm2</p>**
 -|-
-Itgb4 | ![](images/ENSMUSG00000020758.15.png)
-Tgm2 | ![](images/ENSMUSG00000037820.15.png)
-Pkp1 | ![](images/ENSMUSG00000026413.12.png)
-Slc4a11 | ![](images/ENSMUSG00000074796.10.png)
-
-
-##### ENSMUSG00000020758.15
-![](images/ENSMUSG00000020758.15.png)
-
-##### ENSMUSG00000037820.15
-![](images/ENSMUSG00000037820.15.png)
-
-##### ENSMUSG00000026413.12
-![](images/ENSMUSG00000026413.12.png)
-
-##### ENSMUSG00000074796.10
-![](images/ENSMUSG00000074796.10.png)
+![](images/ENSMUSG00000020758.15.png) | ![](images/ENSMUSG00000037820.15.png)
+**<p style="text-align: center;">Pkp1</p>** | **<p style="text-align: center;">Slc4a11</p>**
+![](images/ENSMUSG00000026413.12.png) | ![](images/ENSMUSG00000074796.10.png)
