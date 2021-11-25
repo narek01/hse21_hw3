@@ -54,8 +54,10 @@ ENSMUSG00000037820.15 | [Tgm2](http://www.ensembl.org/Mus_musculus/Gene/Summary?
 ENSMUSG00000026413.12 | [Pkp1](http://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026413;r=1:135799133-135846945) |	1670.22 | 5.50794 |	0.162349 |	33.9265 |	2.70764e-252 | 3.40283e-249
 ENSMUSG00000074796.10 | [Slc4a11](http://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000074796;r=2:130526033-130539439) |	890.962 | 4.27569 |	0.135831 |	31.478 |	1.73566e-217 | 1.74504e-214
 
-**<p style="text-align: center;">Itgb4</p>** | **<p style="text-align: center;">Tgm2</p>**
+Itgb4 | Tgm2
 -|-
 ![](images/ENSMUSG00000020758.15.png) | ![](images/ENSMUSG00000037820.15.png)
-**<p style="text-align: center;">Pkp1</p>** | **<p style="text-align: center;">Slc4a11</p>**
+
+Pkp1 | Slc4a11
+-|-
 ![](images/ENSMUSG00000026413.12.png) | ![](images/ENSMUSG00000074796.10.png)
