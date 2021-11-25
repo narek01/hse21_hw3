@@ -47,6 +47,22 @@ SRR3414637 | control	| 20 385 570	| 19 847 291 (97.36 %) |	17 844 858 (87.54 %) 
 
 ## Дифференциально экспрессированные гены (примеры)
 
+### Общая информация
+ID | Gene |	baseMean  |	log2FoldChange |	lfcSE |	stat |	pvalue | padj
+-|-|-|-|-|-|-|-
+ENSMUSG00000020758.15 | [Itgb4](http://www.ensembl.org/Mus_musculus/Gene/Summary?db=core;g=ENSMUSG00000020758;r=11:115865535-115899238) |	6336.69 | 4.25983 |	0.114956 |	37.0562 |	1.42866e-300 | 4.10392e-297
+ENSMUSG00000037820.15 | [Tgm2](http://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037820;r=2:157958322-157988356) |	3906.54 | 4.02391 |	0.110666 |	36.3608 |	1.77307e-289 | 3.24117e-286
+ENSMUSG00000026413.12 | [Pkp1](http://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026413;r=1:135799133-135846945) |	1670.22 | 5.50794 |	0.162349 |	33.9265 |	2.70764e-252 | 3.40283e-249
+ENSMUSG00000074796.10 | [Slc4a11](http://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000074796;r=2:130526033-130539439) |	890.962 | 4.27569 |	0.135831 |	31.478 |	1.73566e-217 | 1.74504e-214
+
+Gene | Graph
+-|-
+Itgb4 | ![](images/ENSMUSG00000020758.15.png)
+Tgm2 | ![](images/ENSMUSG00000037820.15.png)
+Pkp1 | ![](images/ENSMUSG00000026413.12.png)
+Slc4a11 | ![](images/ENSMUSG00000074796.10.png)
+
+
 ##### ENSMUSG00000020758.15
 ![](images/ENSMUSG00000020758.15.png)
 
